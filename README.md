@@ -91,3 +91,10 @@ Through this project, I gained practical experience in:
 
 This project represents my practical learning journey with SQL and is one of my initial steps toward developing stronger data analysis and data preparation skills.
 
+## Author
+
+**Owais Ali**
+
+Aspiring Machine Learning / AI Engineer
+
+GitHub: https://github.com/oz-owaiz
