@@ -36,7 +36,6 @@ The dataset contains 20 student records with the following columns:
 
 **Aggregate Functions**
 - COUNT()
-- SUM()
 - AVG()
 - MIN()
 - MAX()
@@ -73,7 +72,7 @@ Additional exercises involving filtering, sorting, counting, and grouping were a
 sql-student-performance-analysis/
 │
 ├── student_performance.csv
-├── student_performance_analysis.sql
+├── student_performance.sql
 └── README.md
 ```
 
